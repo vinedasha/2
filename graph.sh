@@ -18,7 +18,7 @@ HEIGHT=150
 
 TS=$(date +%s)
 
-T0=$(expr $TS - 50)
+T0=$(expr $TS - 200)
 T1=$TS
 
 rrdtool graph $IMG \
