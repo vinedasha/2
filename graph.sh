@@ -11,7 +11,7 @@ GR3=graph3
 GR4=graph4
 
 #NM=$(hostname)+'Dart'
-IMG=graph.png
+IMG=/var/www/localhost/lighttpd/graph.png
 
 WIDTH=550
 HEIGHT=150
