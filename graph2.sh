@@ -5,7 +5,7 @@ NAME=value
 GR=graph1
 
 #NM=$(hostname)+'Dart'
-IMG=graph2.png
+IMG=/car/www/localhost/lighttpd/graph2.png
 
 WIDTH=750
 HEIGHT=350
